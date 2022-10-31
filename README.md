@@ -356,10 +356,3 @@ arXiv:2010.11929, 2020.
 
 
 Cosine Learning Rate Scheduler adapted from: https://github.com/jeonsworld/ViT-pytorch/blob/main/utils/scheduler.py
-
-
-
-# Contact
-
-Alpay Özkan, alpay.ozkan@metu.edu.tr
-Hıdır Yeşiltepe, hidir.yesiltepe@metu.edu.tr
